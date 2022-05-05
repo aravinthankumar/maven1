@@ -58,7 +58,7 @@ public static void main(String[] args) {
 	System.out.println(s);
 	
 	
-	System.out.println("sample one");
+	System.out.println("sample two");
 	
 	
 	
