@@ -51,14 +51,14 @@ public static void main(String[] args) {
 	
 //	int x1=1;
 //	System.out.println(--x1--);
-//	
+	
 	
 	String s = new String("java");
 	s.concat("selenium").replace('s', 'S').toUpperCase().replace('S', 's').toString();
 	System.out.println(s);
 	
 	
-	
+	System.out.println("sample one");
 	
 	
 	
