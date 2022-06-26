@@ -60,7 +60,7 @@ public static void main(String[] args) {
 	
 	System.out.println("sample two");
 	
-	
+	System.out.println("checkout");
 	
 	
 	
